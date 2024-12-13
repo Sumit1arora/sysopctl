@@ -36,6 +36,7 @@
    ```
 2. Run the installation script:
    ```bash
+   chmod +x install.sh
    sudo ./install.sh
    ```
    *The script installs `sysopctl` to `/usr/local/bin` and ensures the correct permissions.*
