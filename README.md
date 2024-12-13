@@ -31,7 +31,7 @@
 ## Installation
 1. Clone this repository:
    ```bash
-   git clone https://github.com/<your-repo>/sysopctl.git
+   git clone https://github.com/Sumit1arora/sysopctl.git
    cd sysopctl
    ```
 2. Run the installation script:
