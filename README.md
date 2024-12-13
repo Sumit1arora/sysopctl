@@ -156,20 +156,6 @@ sudo sysopctl backup /home/kali/user
 
 ---
 
-## License
-This project is licensed under [Your License Here].
-
----
-
-## Contributing
-Contributions are welcome! Please follow these steps:
-1. Fork the repository.
-2. Create a new feature branch.
-3. Commit your changes with clear messages.
-4. Submit a pull request.
-
----
-
 ## Author
 Sumit Arora - sa7984469@gmail.com
 
