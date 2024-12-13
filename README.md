@@ -43,8 +43,5 @@ sysopctl backup /home/user
 ## Version
 0.1.0
 
-## License
-[Your License Here]
-
 ## Contributing
 Contributions are welcome. Please submit pull requests or open issues.
