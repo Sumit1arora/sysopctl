@@ -1,0 +1,15 @@
+*.bak
+*.swp
+
+# Temporary files
+*.tmp
+
+# Sensitive information
+*.env
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Compiled man pages
+*.1.gz
