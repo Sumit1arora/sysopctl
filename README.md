@@ -81,7 +81,8 @@ sysopctl --help
 ```bash
 sysopctl --version
 ```
-![Version Command](images/version.png)
+![image](https://github.com/user-attachments/assets/d1fda8d8-6d8c-4765-ad75-2a5130fb8ff4)
+
 
 ### 2. Service Management
 #### List Services
