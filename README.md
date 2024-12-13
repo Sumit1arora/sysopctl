@@ -147,7 +147,8 @@ sudo sysopctl backup /home/kali/user
 ---
 
 ## Workflow Diagram
-![Workflow Diagram](images/workflow_diagram.png)
+![graphviz (1)](https://github.com/user-attachments/assets/23e070fa-d0c5-44b0-aa0c-d6054254f80e)
+
 
 ## System Architecture Diagram
 ![System Architecture](images/system_architecture.png)
