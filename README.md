@@ -75,13 +75,14 @@ sysopctl [OPTION] [COMMAND] [ARGUMENTS]
 ```bash
 sysopctl --help
 ```
-![Help Option](images/help.png)
+![Help](https://github.com/user-attachments/assets/8580deba-cb40-4613-a3f7-72541b0d96d8)
+
 
 #### Version
 ```bash
 sysopctl --version
 ```
-![image](https://github.com/user-attachments/assets/d1fda8d8-6d8c-4765-ad75-2a5130fb8ff4)
+![Version](https://github.com/user-attachments/assets/d1fda8d8-6d8c-4765-ad75-2a5130fb8ff4)
 
 
 ### 2. Service Management
@@ -89,51 +90,59 @@ sysopctl --version
 ```bash
 sysopctl service list
 ```
-![List Services](images/service_list.png)
+![List Services](https://github.com/user-attachments/assets/ce0b792b-6324-4cf7-9db5-c3e2f6f96b0d)
+
 
 #### Start a Service
 ```bash
-sysopctl service start apache2
+sysopctl service start nginx
 ```
-![Start Service](images/service_start.png)
+![Start Service](https://github.com/user-attachments/assets/cd7e7bcd-c6ee-44a9-814b-0448624bf2cd)
+
 
 #### Stop a Service
 ```bash
-sysopctl service stop apache2
+sysopctl service stop nginx
 ```
-![Stop Service](images/service_stop.png)
+![Stop Service](https://github.com/user-attachments/assets/747e152f-a4ec-4ddc-8fca-7f99a30ae32d)
+
 
 ### 3. System Operations
 #### Display System Load
 ```bash
 sysopctl system load
 ```
-![System Load](images/system_load.png)
+![System Load](https://github.com/user-attachments/assets/844d9dc0-a130-49c7-8cd8-0e6c399a6fcf)
+
 
 #### Show Disk Usage
 ```bash
 sysopctl disk usage
 ```
-![Disk Usage](images/disk_usage.png)
+![Disk Usage](https://github.com/user-attachments/assets/dc695c50-bc74-4111-9384-f5d5a5ad069c)
+
 
 ### 4. Advanced Features
 #### Monitor Processes
 ```bash
 sysopctl process monitor
 ```
-![Process Monitor](images/process_monitor.png)
+![Process Monitor](https://github.com/user-attachments/assets/8bf4096d-ab62-4a05-aa8c-fb611401d4ba)
+
 
 #### Analyze Logs
 ```bash
 sysopctl logs analyze
 ```
-![Log Analysis](images/log_analysis.png)
+![Log Analysis](https://github.com/user-attachments/assets/761830e0-381f-498c-ab36-12e19f793eb4)
+
 
 #### Backup Files
 ```bash
-sysopctl backup /home/user
+sudo sysopctl backup /home/kali/user
 ```
-![Backup Files](images/backup.png)
+![Backup Files](https://github.com/user-attachments/assets/7e52534c-6a15-4798-8409-f9921b7ef91b)
+
 
 ---
 
